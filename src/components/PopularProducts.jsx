@@ -16,6 +16,7 @@ function PopularProducts() {
       <div className="w-64 h-80 border-2 border-gray-200">
       <img className="w-48 min-h-60" src={images.greenApple} alt="#" />
       <div className="thuloDiv">
+        hello
         <h6>Green Apple</h6>
         <div className="price">
           <h5>$14.99</h5>
