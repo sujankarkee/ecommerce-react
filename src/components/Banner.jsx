@@ -10,7 +10,7 @@ function Banner() {
         <div
           className="onePhoto w-full h-[535px] rounded-md relative"
           style={{
-            backgroundImage: `linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0)), url(${images.hat})`,
+            backgroundImage: `linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0)), url(${images.hat}`,
             backgroundPosition: "center",
             backgroundSize: "cover",
             backgroundRepeat: "no-repeat",
