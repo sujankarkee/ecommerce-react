@@ -16,6 +16,15 @@ import image9 from "../src/assets/images/image9.png";
 import image10 from "../src/assets/images/image10.png";
 import image11 from "../src/assets/images/image11.png";
 import image12 from "../src/assets/images/image12.png";
+import malta from "../src/assets/images/malta.jpg";
+import potato from "../src/assets/images/potato.jpg";
+import eggplant from "../src/assets/images/eggplant.jpg";
+import lettuce from "../src/assets/images/lettuce.jpg";
+import cabbage from "../src/assets/images/cabbage.jpg";
+import chili from "../src/assets/images/chili.jpg";
+import capsicum from "../src/assets/images/capsicum.jpg";
+import cauliflower from "../src/assets/images/cauliflower.jpg";
+import corn from "../src/assets/images/corn.jpg";
 
 const images = {
     hat,
@@ -36,5 +45,16 @@ const images = {
     image10,
     image11,
     image12,
+    malta,
+    potato,
+    eggplant,
+    lettuce,
+    cabbage,
+    chili,
+    capsicum,
+    cauliflower,
+    corn,
+
+
 };
 export default images;
